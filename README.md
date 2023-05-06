@@ -1,2 +1,2 @@
 # awareness-color-data
-Dataset of hexadecimal codes for cuases
+Dataset of html color names for causes
